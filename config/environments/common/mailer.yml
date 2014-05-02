@@ -1,12 +1,12 @@
 ---
-from: squash@YOUR_DOMAIN
-domain: YOUR_DOMAIN
-strategy: sendmail
+from: squash@lendup.com
+domain: lendup.com
+strategy: smtp
 smtp_settings:
-  address:
-  port:
-  domain:
-  user_name:
-  password:
-  authentication:
-  enable_starttls_auto:
+  address: smtp.sendgrid.net
+  port: '587'
+  domain: lendup.com
+  user_name: app24782053@heroku.com
+  password: pq4d7cg3
+  authentication: plain
+  enable_starttls_auto: false

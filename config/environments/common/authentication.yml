@@ -1,3 +1,5 @@
 ---
 strategy: password
 registration_enabled: true
+password:
+  salt: uI7hLKM680dzmB8nPbg8bw==
