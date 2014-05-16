@@ -24,3 +24,6 @@ gem 'font-awesome-rails', '< 4.0'
 gem 'coffee-rails'
 gem 'closure-compiler'
 gem 'jquery-rails'
+
+gem 'rails_12factor', group: :production
+
