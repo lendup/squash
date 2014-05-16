@@ -1,3 +1,4 @@
+# postgres://vsgclcxrdidxuf:1gl7lNnByy4czj1rHDSgvnHJ_y@ec2-54-225-239-184.compute-1.amazonaws.com:5432/datos8d63brms0
 ---
 development:
   adapter: postgresql
